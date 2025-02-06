@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Hemang
 - 👀 I’m interested in projects related to AI, ML and Web Development 
-- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me hemang.vercel.app
