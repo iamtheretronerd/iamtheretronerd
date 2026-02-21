@@ -81,13 +81,20 @@ I'm a software engineer crafting digital experiences at the intersection of **AI
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamtheretronerd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtheretronerd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="49%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamtheretronerd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E)](https://git.io/streak-stats)
 
 <br><br>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamtheretronerd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=iamtheretronerd&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" width="49%" />
+<a href="https://github.com/iamtheretronerd">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamtheretronerd&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
+</a>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-30%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-10%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
