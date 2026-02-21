@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamtheretronerd/iamtheretronerd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamtheretronerd/iamtheretronerd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamtheretronerd/iamtheretronerd/output/github-contribution-grid-snake.svg">
+</picture>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hemang Murugan
 
@@ -85,16 +89,11 @@ I'm a software engineer crafting digital experiences at the intersection of **AI
 
 <br><br>
 
-<a href="https://github.com/iamtheretronerd">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamtheretronerd&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
-</a>
-
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-30%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-10%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Top Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
